@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_language">Langue de l\'app</string>
+    <string name="next">Suivant</string>
+    <string name="fruitsnvegetables">Fruits et légumes</string>
+    <string name="home">Écran d\'accueil</string>
+    <string name="potato">Pomme de terre</string>
+    <string name="add">Ajouter</string>
+    <string name="onion">Oignon</string>
+    <string name="carrot">Carotte</string>
+    <string name="cucumber">Concombre</string>
+    <string name="rpotato">€1.20</string>
+    <string name="ronion">€0.90</string>
+    <string name="rcucumber">€1.50</string>
+    <string name="rcarrot">€1.20</string>
+</resources>

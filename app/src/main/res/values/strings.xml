@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">App Localization</string>
+    <string name="title_activity_home" translatable="false">HomeActivity</string>
+    <string name="apps_language">App\'s Language</string>
+    <string name="next">Next</string>
+    <string name="home">Home Screen</string>
+    <string name="fruitsnvegetables">Fruits &amp; Vegetables</string>
+    <string name="potato">Potato</string>
+    <string name="add">Add</string>
+    <string name="rpotato">₹30</string>
+    <string name="quantity" translatable="false">1 kg</string>
+    <string name="onion">Onion</string>
+    <string name="carrot">Carrot</string>
+    <string name="cucumber">Cucumber</string>
+    <string name="ronion">₹25</string>
+    <string name="rcucumber">₹35</string>
+    <string name="rcarrot">" ₹40 "</string>
+</resources>

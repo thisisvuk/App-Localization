@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_language">अॅपची भाषा</string>
+    <string name="next">पुढे जा</string>
+    <string name="home">होम स्क्रीन</string>
+    <string name="fruitsnvegetables">फळ आणि भाज्या</string>
+    <string name="potato">आलू</string>
+    <string name="add">जोडा</string>
+    <string name="rpotato">₹30</string>
+    <string name="onion">कांदा</string>
+    <string name="carrot">"गाजर "</string>
+    <string name="cucumber">काकडी</string>
+    <string name="ronion">₹25</string>
+    <string name="rcucumber">₹35</string>
+    <string name="rcarrot">" ₹40 "</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_language">Язык приложения</string>
+    <string name="next">Далее</string>
+    <string name="fruitsnvegetables">Фрукты и овощи</string>
+    <string name="home">Главный экран</string>
+    <string name="potato">"Картофель "</string>
+    <string name="add">"Добавить "</string>
+    <string name="onion">"Лук "</string>
+    <string name="carrot">"Морковь "</string>
+    <string name="cucumber">Огурец</string>
+    <string name="rpotato">₽40</string>
+    <string name="ronion">₽50</string>
+    <string name="rcucumber">₽60</string>
+    <string name="rcarrot">₽35</string>
+</resources>
